@@ -1,6 +1,6 @@
-### Hi there, I'm Yusuf Muratov 👋
+# Hi there, I'm Yusuf Muratov 👋
 
-Junior Kotlin Android Developer. I have good knowlege in android development on Kotlin.
+#### Junior Kotlin Android Developer. I have good knowlege in android development on Kotlin.
 
 <p align = 'center'>
 <a href="https://github.com/passerby29/github-readme-stats"><img height=150 width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=passerby29&layout=compact" /></a>
@@ -17,8 +17,22 @@ Junior Kotlin Android Developer. I have good knowlege in android development on 
   📫  How to reach me: <a href='mailto:yusuf.muratov@list.ru'>yusuf.muratov@list.ru</a>
 </p>
 
+## My projects:
+### Kotlin:
+
+- [Project for my thesis](https://github.com/passerby29/MetrogradThesisProject)
+- [Notes app project](https://github.com/passerby29/NotesAppProject)
+- [Car rental app concept](https://github.com/passerby29/New-Car-Rental)
+- [Weather forecast app](https://github.com/passerby29/WeatherApp)
+- [Weather forecast app with Jetpack Compose](https://github.com/passerby29/JetpackComposeWeatherApp)
+
+### Java:
+
+- [Building company app concept](https://github.com/passerby29/BuildingCompanyProject)
+- [Polyclinic app concept](https://github.com/passerby29/PolyclinicAppProject)
+
 ## 🛠 Technical Stack
-*   Java/Kotlin 
+*   Java/Kotlin
 *   XML/Jetpack Compose
 *   SQL, SQLite
 *   MVVM/MVP
