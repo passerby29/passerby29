@@ -36,5 +36,6 @@
 *   XML/Jetpack Compose
 *   SQL, SQLite
 *   MVVM/MVP
-*   Retrofit, Volley, GSON, OkHttp3, Room, RxJava3, Picasso, Coil
+*   Retrofit, Volley, GSON, OkHttp3, Room, RxJava3, Picasso, Coil, Coroutines
 *   GitHub
+*   Services, WorkManager
