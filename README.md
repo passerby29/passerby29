@@ -3,6 +3,7 @@
 #### Junior Kotlin Android Developer. I have good knowlege in android development on Kotlin.
 
 <p align = 'center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=passerby29&show_icons=true&count_private=true" /></a>
 <a href="https://github.com/passerby29/github-readme-stats"><img height=150 width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=passerby29&layout=compact" /></a>
  </p>
 
