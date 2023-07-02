@@ -1,6 +1,6 @@
 # Hi there, I'm Yusuf Muratov 👋
 
-#### Junior Kotlin Android Developer. I have good knowlege in android development on Kotlin.
+#### Kotlin Android Developer. I have good knowlege in android development on Kotlin.
 
 <p align = 'center'>
 <a href="https://github.com/passerby29/github-readme-stats"><img height=150 width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=passerby29&layout=compact" /></a>
