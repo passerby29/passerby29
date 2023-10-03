@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
-  📫  How to reach me: <a href='mailto:yusuf.muratov@list.ru'>yusuf.muratov@list.ru</a>
+  📫  How to reach me: <a href='mailto:yusuf.muratov29@gmail.com'>yusuf.muratov29@gmail.com</a>
 </p>
 
 ## My projects:
