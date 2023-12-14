@@ -20,6 +20,7 @@
 ## My projects:
 ### Kotlin:
 
+- [CoinCheck project](https://github.com/passerby29/CoinCheckProject)
 - [Project for my thesis](https://github.com/passerby29/MetrogradThesisProject)
 - [Notes app project](https://github.com/passerby29/NotesAppProject)
 - [Car rental app concept](https://github.com/passerby29/New-Car-Rental)
